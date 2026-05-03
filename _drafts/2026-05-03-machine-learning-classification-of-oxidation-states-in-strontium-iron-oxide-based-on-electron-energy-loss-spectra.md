@@ -7,6 +7,10 @@ author: Tech Tana
 banner: >-
   https://github.com/techtana/EELS_SFO/blob/main/paper_supplement_materials/figure_1.jpg
 date: '2026-05-03'
+categories:
+  - abstract
+tags:
+  - abstract
 ---
 # Machine learning classification of oxidation states in strontium iron oxide based on electron energy loss spectra
 
