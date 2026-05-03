@@ -1,6 +1,7 @@
 ---
-title: First post
+title: Summary of the paper
 date: '2026-05-03'
+category: first post
 ---
 Machine learning classification of oxidation states in strontium iron oxide based on electron energy loss spectra
 Phacharapol Tanasarnsopaporn1*, Joshua Agar1, James Hart2, and Mitra Taheri3
